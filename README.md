@@ -7,3 +7,6 @@ Time series analysis comprises methods for analyzing time series data in order t
 The Objective of this project is to forecast sales of products.
 
 The code contains visualizations of the data over years and a RNN model for time series forecasting along with CustomDataGenerator
+
+# References
+https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
