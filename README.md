@@ -10,3 +10,7 @@ The code contains visualizations of the data over years and a RNN model for time
 
 # References
 https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
+
+# References for timeseries Airquality branch.
+
+https://www.youtube.com/watch?v=-r7wB9DJtiU&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK - Srivatsan Srinivasan
